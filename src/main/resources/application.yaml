@@ -1,1 +1,2 @@
 spring.application.name=AI-Car-Sales
+application.port = 8085
